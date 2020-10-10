@@ -1,2 +1,2 @@
 print("welcome")
-print("All")
+print("All of them")
