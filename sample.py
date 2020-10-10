@@ -1,2 +1,2 @@
 print("welcome")
-print("All")
+print("only for update waiting for merge")
